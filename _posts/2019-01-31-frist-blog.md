@@ -3,6 +3,7 @@ layout: post
 title: "First Blog"
 subtitle: '开始写点东西'
 author: "Arthur"
+comment:true
 header-style: text
 tags:
   - Begin
