@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: arthur_0215@163.com
 description: "关于程序与设计、自然语言处理 | Arthur，Software Engineer，A common Graduate | 阿瑟个人博客，我发呆的地方"
 keyword: "阿瑟, Arthur, 算法,阿瑟的博客,Blog,个人网站, 互联网, NLP, 推荐系统, 工程, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url:              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
