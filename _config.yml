@@ -76,7 +76,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Be A Joker"
-sidebar-avatar: /img/arhur_head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/arthur_head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
