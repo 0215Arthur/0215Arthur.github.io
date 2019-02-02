@@ -23,6 +23,8 @@
     <meta property="article:tag" content="{{ tag }}">
     {% endfor %}
     {% else %}
+	{% highlight c++ %}
+{% endhighlight%}
     <meta property="og:type" content="website">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% endcase %}
